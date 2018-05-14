@@ -22,8 +22,6 @@ tr
       img src==(($abspath == true ? $srcAbs : $srcRel)+"s3_title_bottom.jpg") width="620" height="83" border="0" alt==($alt_s3_title_bottom)
 tr
   td width="620" height="27"
-    / a href==($s4_price_mt) target="_blank"
-      / img src==(($abspath == true ? $srcAbs : $srcRel)+"s4_price_mt.png") border="0" alt==($alt_s4_price_mt)
 tr
   td valign="middle" align="center"
     table border="0" cellpadding="0" cellspacing="0"
@@ -36,17 +34,7 @@ tr
   / price_mb
   td width="620" height="28"
 
-- counter2 = []
-- test_ = Array($objso["img_"])
-- i = 0
-
-- while (i < test_.length)
-  - counter2.push(test_[i][0].to_i)
-  - i += 1
-  tr
-    td
-      span.pk_lib "#{i}"
-
+// ligne1
 tr
   td
     table border="0" cellpadding="0" cellspacing="0" width="620"
@@ -54,21 +42,18 @@ tr
         / pk1_ml
         td width="8" height="296"
         td
-          a href==($s7c1s1c2_pk1) target="_blank"
-            img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_pk#{i}.jpg") width="292" height="296" border="0" alt==($alt_s7c1s1c2_pk1)
+          a href==($pk1) target="_blank"
+            img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_pk1.jpg") width="292" height="296" border="0" alt==($alt_pk1)
         / pk1_mr
         td width="10" height="296"
 
         / pk2_ml
         td width="10" height="296"
         td
-          a href==($s7c2s1c2_pk2) target="_blank"
-            img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_pk#{i+1}.jpg") width="292" height="296" border="0" alt==($alt_s7c2s1c2_pk2)
+          a href==($pk2) target="_blank"
+            img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_pk2.jpg") width="292" height="296" border="0" alt==($alt_pk2)
         / pk2_mr
         td width="8" height="296"
-/ -counter.each {|i|
-/ -}
-/ - i = +1
 tr
   td
     table border="0" cellpadding="0" cellspacing="0" width="620"
@@ -77,12 +62,150 @@ tr
           table border="0" cellpadding="0" cellspacing="0" width="310"
             tr
               td align="center" valign="middle"
-                a.pk_lib.txtcenter href==($s7c1s2_pk1_info) target="_blank"
+                a.pk_lib.txtcenter href==($pk1_info) target="_blank"
                   == $objso["lib"]["fr"]["pk1"]
                   br
-                  span 45 salades faciles, originales et délicieuses…
+                  span == $objso["lib"]["fr_"]["pk1"]
                   br
-                  b 6.95 €
+                  b == $objso["price"]["pk1"]["fr"]
+            tr
+              td
+                table border="0" cellpadding="0" cellspacing="0" width="310"
+                  tr
+                    / pk1_btn_ml
+                    td width="112" height="24"
+                    td
+                      a href==($pk1_btn) target="_blank"
+                        img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_btn.png") width="86" height="24" border="0" alt==($alt_s7_btn)
+                    / pk1_btn_mr
+                    td width="112" height="24"
+
+        td
+          table border="0" cellpadding="0" cellspacing="0" width="310"
+            tr
+              td align="center" valign="middle"
+                a.pk_lib.txtcenter href==($pk2_info) target="_blank"
+                  == $objso["lib"]["fr"]["pk2"]
+                  br
+                  span == $objso["lib"]["fr_"]["pk2"]
+                  br
+                  b == $objso["price"]["pk2"]["fr"]
+            tr
+              td
+                table border="0" cellpadding="0" cellspacing="0" width="310"
+                  tr
+                    td width="112" height="24"
+                    td
+                      a href==($pk2_btn) target="_blank"
+                        img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_btn.png") width="86" height="24" border="0" alt==($alt_s7_btn)
+                    td width="112" height="24"
+
+      tr
+        td width="620" height="47"
+
+// ligne2
+tr
+  td
+    table border="0" cellpadding="0" cellspacing="0" width="620"
+      tr
+        / pk1_ml
+        td width="8" height="296"
+        td
+          a href==($pk3) target="_blank"
+            img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_pk3.jpg") width="292" height="296" border="0" alt==($alt_pk3)
+        / pk1_mr
+        td width="10" height="296"
+
+        / pk2_ml
+        td width="10" height="296"
+        td
+          a href==($pk4) target="_blank"
+            img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_pk4.jpg") width="292" height="296" border="0" alt==($alt_pk4)
+        / pk2_mr
+        td width="8" height="296"
+tr
+  td
+    table border="0" cellpadding="0" cellspacing="0" width="620"
+      tr
+        td
+          table border="0" cellpadding="0" cellspacing="0" width="310"
+            tr
+              td align="center" valign="middle"
+                a.pk_lib.txtcenter href==($pk3_info) target="_blank"
+                  == $objso["lib"]["fr"]["pk3"]
+                  br
+                  span == $objso["lib"]["fr_"]["pk3"]
+                  br
+                  b == $objso["price"]["pk3"]["fr"]
+            tr
+              td
+                table border="0" cellpadding="0" cellspacing="0" width="310"
+                  tr
+                    / pk1_btn_ml
+                    td width="112" height="24"
+                    td
+                      a href==($pk3_btn) target="_blank"
+                        img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_btn.png") width="86" height="24" border="0" alt==($alt_s7_btn)
+                    / pk1_btn_mr
+                    td width="112" height="24"
+
+        td
+          table border="0" cellpadding="0" cellspacing="0" width="310"
+            tr
+              td align="center" valign="middle"
+                a.pk_lib.txtcenter href==($pk4_info) target="_blank"
+                  == $objso["lib"]["fr"]["pk4"]
+                  br
+                  span == $objso["lib"]["fr_"]["pk4"]
+                  br
+                  b == $objso["price"]["pk4"]["fr"]
+            tr
+              td
+                table border="0" cellpadding="0" cellspacing="0" width="310"
+                  tr
+                    td width="112" height="24"
+                    td
+                      a href==($pk4_btn) target="_blank"
+                        img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_btn.png") width="86" height="24" border="0" alt==($alt_s7_btn)
+                    td width="112" height="24"
+
+      tr
+        td width="620" height="47"
+
+// ligne3
+tr
+  td
+    table border="0" cellpadding="0" cellspacing="0" width="620"
+      tr
+        / pk1_ml
+        td width="8" height="296"
+        td
+          a href==($pk5) target="_blank"
+            img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_pk5.jpg") width="292" height="296" border="0" alt==($alt_pk5)
+        / pk1_mr
+        td width="10" height="296"
+
+        / pk2_ml
+        td width="10" height="296"
+        td
+          a href==($pk6) target="_blank"
+            img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_pk6.jpg") width="292" height="296" border="0" alt==($altpk6)
+        / pk2_mr
+        td width="8" height="296"
+tr
+  td
+    table border="0" cellpadding="0" cellspacing="0" width="620"
+      tr
+        td
+          table border="0" cellpadding="0" cellspacing="0" width="310"
+            tr
+              td align="center" valign="middle"
+                a.pk_lib.txtcenter href==($pk5_info) target="_blank"
+                  == $objso["lib"]["fr"]["pk5"]
+                  br
+                  span == $objso["lib"]["fr_"]["pk5"]
+                  br
+                  b == $objso["price"]["pk5"]["fr"]
             tr
               td
                 table border="0" cellpadding="0" cellspacing="0" width="310"
@@ -91,7 +214,7 @@ tr
                     td width="112" height="24"
                     td
                       a href==($s7c1s3c2_pk1_btn) target="_blank"
-                        img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_btn.png") width="86" height="24" border="0" alt==($alt_s7c1s3c2_pk1_btn)
+                        img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_btn.png") width="86" height="24" border="0" alt==($alt_s7_btn)
                     / pk1_btn_mr
                     td width="112" height="24"
 
@@ -99,12 +222,12 @@ tr
           table border="0" cellpadding="0" cellspacing="0" width="310"
             tr
               td align="center" valign="middle"
-                a.pk_lib.txtcenter href==($s7c2s2_pk2_info) target="_blank"
-                  == $objso["lib"]["fr"]["pk2"]
+                a.pk_lib.txtcenter href==($pk6_info) target="_blank"
+                  == $objso["lib"]["fr"]["pk6"]
                   br
-                  span 45 salades faciles, originales et délicieuses…
+                  span == $objso["lib"]["fr_"]["pk6"]
                   br
-                  b 6.95 €
+                  b == $objso["price"]["pk6"]["fr"]
             tr
               td
                 table border="0" cellpadding="0" cellspacing="0" width="310"
@@ -112,12 +235,12 @@ tr
                     td width="112" height="24"
                     td
                       a href==($s7c2s3c2_pk2_btn) target="_blank"
-                        img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_btn.png") width="86" height="24" border="0" alt==($alt_s7c2s3c2_pk2_btn)
+                        img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_btn.png") width="86" height="24" border="0" alt==($alt_s7_btn)
                     td width="112" height="24"
 
       tr
         td width="620" height="47"
-/ -}
+
 
 tr
   / s10_btn_ray
@@ -128,4 +251,5 @@ tr
           a.callprice href==($s10_btn_ray) target="_blank"
             == $btn[0]
             b == $btn[1]
-
+tr
+  td height="30"
