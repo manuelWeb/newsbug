@@ -1,0 +1,211 @@
+{
+  "date": "0518",
+  "campaignName": "salades",
+  "campaignNameM": "salades",
+  "title": {
+    "bf": "Les essentiels pour préparer votre jardin dès 7,99€ !",
+    "bv": "De belangrijkste dingen om uw tuin voor te bereiden vanaf €7,99!",
+    "de": "Das Wichtigste zum Herrichten Ihres Gartens ab 7,99€!",
+    "fr": "Les essentiels pour préparer votre jardin dès 7,99€ !",
+    "nl": "De belangrijkste dingen om uw tuin voor te bereiden vanaf €7,99!",
+    "uk": "The essentials for preparing your garden starting at £7,99!"
+  },
+  "head_doc": {
+    "bf":
+      "Découvrez vite notre sélection pour préparer au mieux votre jardin  à partir de 7,99€ !",
+    "bv":
+      "Ontdek snel onze selectie om zo goed mogelijk uw tuin voor te bereiden vanaf €7,99!",
+    "de":
+      "Entdecken Sie schnell unsere Auswahl zum bestmöglichen Herrichten Ihres Gartens ab €7,99!",
+    "fr":
+      "Découvrez vite notre sélection pour préparer au mieux votre jardin  à partir de 7,99€ !",
+    "nl":
+      "Ontdek snel onze selectie om zo goed mogelijk uw tuin voor te bereiden vanaf €7,99!",
+    "uk":
+      "Discover fast our selection for preparing your garden at best starting at £7,99!"
+  },
+  "ID": {
+    "bf": "1720",
+    "bv": "1724",
+    "de": "1723",
+    "fr": "1721",
+    "nl": "1719",
+    "uk": "1722"
+  },
+  "price": {
+    "bf": "Sélection à partir de 7,99€",
+    "bv": "Selectie vanaf €7.99",
+    "de": "Auswahl ab €7.99",
+    "fr": "Sélection à partir de 7,99€",
+    "nl": "Selectie vanaf €7.99",
+    "uk": "Selection starting at £7.99"
+  },
+  "img_": {
+    "pk1": "1",
+    "pk2": "2",
+    "pk3": "3",
+    "pk4": "4",
+    "pk5": "5",
+    "pk6": "6"
+  },
+  "lib": {
+    "bf": {
+      "pk1": "Panier de jardinage",
+      "pk2": "Perfect grass<sup>®</sup> de Canada Green",
+      "pk3": "Agenouilloir à poignées",
+      "pk4": "Arrache mauvaises herbes ",
+      "pk5": "Coupe fleurs fanées",
+      "pk6": "Lot de 14 fausses pierres"
+    },
+    "bv": {
+      "pk1": "Tuiniermand",
+      "pk2": "Perfect Grass<sup>®</sup> van Canada Green",
+      "pk3": "Kniesteun met grepen",
+      "pk4": "Onkruidwieder",
+      "pk5": "Snoeischaar",
+      "pk6": "Set van 14 nepstenen"
+    },
+    "de": {
+      "pk1": "Korb für Gartenarbeiten",
+      "pk2": "Perfect Grass<sup>®</sup> von Canada Green",
+      "pk3": "Kniebänkchen mit Griffen",
+      "pk4": "Unkrautjäter",
+      "pk5": "Blumenschere",
+      "pk6": "Set mit 14 künstlichen Steinen"
+    },
+    "fr": {
+      "pk1": "Livre Simplissime salades",
+      "pk2": "Eminceur salade",
+      "pk3": "Tranche-tout express",
+      "pk4": "Guide coupe-oeufs/tomates",
+      "pk5": "Vinaigrier mixeur",
+      "pk6": "Râpe à manivelle"
+    },
+    "fr_": {
+      "pk1": "45 salades faciles, originales et délicieuses…",
+      "pk2": "La salade émincée : un secret de chef !",
+      "pk3": "Une révolution dans la cuisine !",
+      "pk4": "Des tranches parfaites sans vous couper !",
+      "pk5": "Le secret d’une vinaigrette parfaite et… sans aucun effort !",
+      "pk6": "Elle râpe… tout facilement !"
+    },
+    "nl": {
+      "pk1": "Tuiniermand",
+      "pk2": "Perfect Grass<sup>®</sup> van Canada Green",
+      "pk3": "Kniesteun met grepen",
+      "pk4": "Onkruidwieder",
+      "pk5": "Snoeischaar",
+      "pk6": "Set van 14 nepstenen"
+    },
+    "uk": {
+      "pk1": "Garden basket",
+      "pk2": "Lawn repairer",
+      "pk3": "Kneeling pad with handles",
+      "pk4": "Weed puller",
+      "pk5": "Dead head cutter",
+      "pk6": "Set of 14 imitation stones"
+    }
+  },
+  "btn": {
+    "bf": ["Découvrez vite ", "notre sélection !"],
+    "bv": ["Ontdek snel ", "onze selectie!"],
+    "de": ["Entdecken Sie schnell ", "unsere Auswahl!"],
+    "fr": ["Découvrez vite ", "notre sélection !"],
+    "nl": ["Ontdek snel ", "onze selectie!"],
+    "uk": ["Discover quickly ", "our selection!"]
+  },
+  "link": {
+    "pk1": {
+      "bf": "loisirs/entretien-outils-jardin/panier-jardinage/3752110.html",
+      "bv": "vrije-tijd/tuingereedschap/tuiniermand/3752110.html",
+      "de":
+        "sonstiges/gartenpflege-und-gerate/korb-fur-gartenarbeiten/3752110.html",
+      "fr": "loisirs/entretien-outils-jardin/panier-jardinage/3752110.html",
+      "nl": "vrije-tijd/tuingereedschap/tuiniermand/3752110.html",
+      "uk": "interests/maintenance-gardeningtools/garden-basket/3752110.html"
+    },
+    "pk2": {
+      "bf":
+        "loisirs/entretien-outils-jardin/perfect-grass-1kg-canada-green/5297312.html",
+      "bv":
+        "vrije-tijd/tuingereedschap/1kg-perfect-grass-van-canada-green/5297312.html",
+      "de":
+        "sonstiges/gartenpflege-und-gerate/perfect-grass-1-kg-von-canada-green/5297312.html",
+      "fr":
+        "loisirs/entretien-outils-jardin/perfect-grass-1kg-canada-green/5297312.html",
+      "nl":
+        "vrije-tijd/tuingereedschap/1kg-perfect-grass-van-canada-green/5297312.html",
+      "uk": "interests/maintenance-gardeningtools/lawn-repairer/1602119.html"
+    },
+    "pk3": {
+      "bf":
+        "loisirs/entretien-outils-jardin/agenouilloir-a-poignees/2051118.html",
+      "bv": "vrije-tijd/tuingereedschap/kniesteun-met-grepen/2051118.html",
+      "de":
+        "sonstiges/gartenpflege-und-gerate/kniebankchen-mit-griffen/2051118.html",
+      "fr":
+        "loisirs/entretien-outils-jardin/agenouilloir-a-poignees/2051118.html",
+      "nl": "vrije-tijd/tuingereedschap/kniesteun-met-grepen/2051118.html",
+      "uk":
+        "interests/maintenance-gardeningtools/kneeling-pad-with-handles/2051118.html"
+    },
+    "pk4": {
+      "bf":
+        "loisirs/entretien-outils-jardin/arrache-mauvaises-herbes/4882015.html",
+      "bv": "vrije-tijd/tuingereedschap/onkruidwieder/4882015.html",
+      "de": "sonstiges/gartenpflege-und-gerate/unkrautjater/4882015.html",
+      "fr":
+        "loisirs/entretien-outils-jardin/arrache-mauvaises-herbes/4882015.html",
+      "nl": "vrije-tijd/tuingereedschap/onkruidwieder/4882015.html",
+      "uk": "interests/maintenance-gardeningtools/weed-puller/4882015.html"
+    },
+    "pk5": {
+      "bf": "loisirs/entretien-outils-jardin/coupe-fleurs-fanees/4320313.html",
+      "bv": "vrije-tijd/tuingereedschap/snoeischaar/4320313.html",
+      "de": "sonstiges/gartenpflege-und-gerate/blumenschere/4320313.html",
+      "fr": "loisirs/entretien-outils-jardin/coupe-fleurs-fanees/4320313.html",
+      "nl": "vrije-tijd/tuingereedschap/snoeischaar/4320313.html",
+      "uk": "interests/maintenance-gardeningtools/dead-head-cutter/4320313.html"
+    },
+    "pk6": {
+      "bf": "loisirs/decoration-jardin/lot-14-fausses-pierres/9181256.html",
+      "bv": "vrije-tijd/tuindecoratie/set-van-14-nepstenen/9181256.html",
+      "de":
+        "sonstiges/gartendekoration/set-mit-14-kunstlichen-steinen/9181256.html",
+      "fr": "loisirs/decoration-jardin/lot-14-fausses-pierres/9181256.html",
+      "nl": "vrije-tijd/tuindecoratie/set-van-14-nepstenen/9181256.html",
+      "uk":
+        "interests/decorative-garden/set-of-14-imitation-stones/9181256.html"
+    }
+  },
+  "mention_plus": {
+    "bf": "",
+    "bv": "",
+    "de": "",
+    "fr": "",
+    "nl": "",
+    "uk": ""
+  },
+  "layout": {
+    "addLogo": true,
+    "shadLR_H": "1140",
+    "topShad": false,
+    "shadLR": false,
+    "abspath": false
+  },
+  "url": {
+    "bf": "https://www.ideal-pratique.be/befr/",
+    "bv": "https://www.ideal-praktijk.be/bevl/",
+    "de": "https://www.ideal-praktisch.de/de/",
+    "fr": "https://www.tempsl.fr/fr/",
+    "nl": "https://www.ideal-praktijk.nl/nl/",
+    "uk": "https://www.ideal-practical.co.uk/uk/"
+  },
+  "ray": "boutique/rayon_evenement.aspx?urlLangue=fr&nbp=99&pg=0&evenement_id=",
+  "_comment": "",
+  "gift": {
+    "code": "XXXX",
+    "alt": ["", ""]
+  },
+  "prix": "..."
+}
