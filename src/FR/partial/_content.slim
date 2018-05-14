@@ -28,32 +28,43 @@ tr
       tr
         td.lhn.m0auto.pr20.pl20 height="38" valign="middle" align="center" bgcolor="#FF5400"
           a.callprice href==($s3_callPrice) target="_blank"
-            == $price
+            == $price_title
 
 tr
   / price_mb
   td width="620" height="28"
 
 // ligne1
-tr
-  td
-    table border="0" cellpadding="0" cellspacing="0" width="620"
-      tr
-        / pk1_ml
-        td width="8" height="296"
-        td
-          a href==($pk1) target="_blank"
-            img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_pk1.jpg") width="292" height="296" border="0" alt==($alt_pk1)
-        / pk1_mr
-        td width="10" height="296"
+/ - puts $objso["count"].length
+- i = 0
+- while i < $objso["count"].length do
+  tr
+    td
+      table border="0" cellpadding="0" cellspacing="0" width="620"
+        tr
+          td.pk_lib "#{i}"
+        tr
+          td.pk_lib "#{i}"
+        / - (0...array.length).step(2).each do |index|
+        /   value_you_care_about = array[index]
+        / end
+        tr
+          / pk1_ml
+          td width="8" height="296"
+          td
+            a href==($pk1) target="_blank"
+              img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_pk1.jpg") width="292" height="296" border="0" alt==($alt_pk1)
+          / pk1_mr
+          td width="10" height="296"
 
-        / pk2_ml
-        td width="10" height="296"
-        td
-          a href==($pk2) target="_blank"
-            img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_pk2.jpg") width="292" height="296" border="0" alt==($alt_pk2)
-        / pk2_mr
-        td width="8" height="296"
+          / pk2_ml
+          td width="10" height="296"
+          td
+            a href==($pk2) target="_blank"
+              img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_pk2.jpg") width="292" height="296" border="0" alt==($alt_pk2)
+          / pk2_mr
+          td width="8" height="296"
+
 tr
   td
     table border="0" cellpadding="0" cellspacing="0" width="620"

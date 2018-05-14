@@ -32,7 +32,15 @@
     "nl": "1719",
     "uk": "1722"
   },
-  "price": {
+  "count" : {
+    "un"    : "pk1",
+    "deux"  : "pk2",
+    "trois" : "pk3",
+    "quatre": "pk4",
+    "cinq"  : "pk5",
+    "six"   : "pk6"
+  },
+  "price_title": {
     "bf": "Sélection à partir de 7,99€",
     "bv": "Selectie vanaf €7.99",
     "de": "Auswahl ab €7.99",
