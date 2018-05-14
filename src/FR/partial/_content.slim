@@ -44,13 +44,17 @@ tr
         tr
           - slice.each do |item|
             / pk1_ml
-            td width="8" height="296"
+            - if(item[1] % 2 === 0)
+              td width="10" height="296"
+            - else
+              td width="8" height="296"
             td
               a href==($pk1) target="_blank"
-                = i
+                = item[1] % 2 === 0
                 img src==(($abspath == true ? $srcAbs : $srcRel)+"s7_pk#{item[1]}.jpg") width="292" height="296" border="0" alt==($alt_pk1)
-            / pk1_mr
             td width="10" height="296"
+            / pk1_mr
+            / - item[1] % 2 == 0 ? '<td width="10" height="296"></td>' : '<td width="8" height="296"></td>'
     /! #######ENDligne#{i + 1}
 tr
   td
