@@ -33,12 +33,12 @@
     "uk": "1722"
   },
   "count" : {
-    "un"    : "pk1",
-    "deux"  : "pk2",
-    "trois" : "pk3",
-    "quatre": "pk4",
-    "cinq"  : "pk5",
-    "six"   : "pk6"
+    "un"    : 1,
+    "deux"  : 2,
+    "trois" : 3,
+    "quatre": 4,
+    "cinq"  : 5,
+    "six"   : 6
   },
   "price_title": {
     "bf": "Sélection à partir de 7,99€",
