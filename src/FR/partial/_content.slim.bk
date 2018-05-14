@@ -1,0 +1,96 @@
+/ _content
+tr
+  td
+    a href==($s1_ambiance) target="_blank"
+      img src==(($abspath == true ? $srcAbs : $srcRel)+"s1_ambiance.jpg") width="620" height="120" border="0" alt==($alt_s1_ambiance ? $alt_s1_ambiance : "")
+tr
+  td
+    a href==($s2_title) target="_blank"
+      img src==(($abspath == true ? $srcAbs : $srcRel)+"s2_title.png") width="620" height="137" border="0" alt==($alt_s2_title ? $alt_s2_title : "")
+tr
+  td valign="middle" align="center"
+    table border="0" cellpadding="0" cellspacing="0"
+      tr
+        td.lhn.m0auto.pr20.pl20 height="38" valign="middle" align="center" bgcolor="#FF5400"
+          a.callprice href==($s3_callPrice) target="_blank"
+            == $price
+tr
+  td width="620" height="18"
+tr
+  td
+    table border="0" cellpadding="0" cellspacing="0" width="620"
+      tr
+        td width="8" height="296"
+        td
+          a href==($s5c2_pk1) target="_blank"
+            img src==(($abspath == true ? $srcAbs : $srcRel)+"s5c2_pk1.jpg") width="292" height="296" border="0" alt==($alt_s5c2_pk1 ? $alt_s5c2_pk1 : "")
+        td width="20" height="296"
+        td
+          a href==($s5c4_pk2) target="_blank"
+            img src==(($abspath == true ? $srcAbs : $srcRel)+"s5c4_pk2.jpg") width="292" height="296" border="0" alt==($alt_s5c4_pk2 ? $alt_s5c4_pk2 : "")
+        td width="8" height="296"
+tr
+  td
+    table border="0" cellpadding="0" cellspacing="0" width="620"
+      tr
+        td width="310" height="51" valign="middle" align="center"
+          a.pk_lib.txtcenter href==($s6c1_libPk1) target="_blank"
+            == $lib1
+        td width="310" height="51" valign="middle" align="center"
+          a.pk_lib_min.txtcenter href==($s6c2_libPk2) target="_blank"
+            == $lib2
+tr
+  td width="620" height="23"
+
+tr
+  td
+    table border="0" cellpadding="0" cellspacing="0" width="620"
+      tr
+        td width="8" height="296"
+        td
+          a href==($s8c2_pk3) target="_blank"
+            img src==(($abspath == true ? $srcAbs : $srcRel)+"s8c2_pk3.jpg") width="292" height="296" border="0" alt==($alt_s8c2_pk3 ? $alt_s8c2_pk3 : "")
+        td width="20" height="296"
+        td
+          a href==($s8c4_pk4) target="_blank"
+            img src==(($abspath == true ? $srcAbs : $srcRel)+"s8c4_pk4.jpg") width="292" height="296" border="0" alt==($alt_s8c4_pk4 ? $alt_s8c4_pk4 : "")
+
+tr
+  td
+    table border="0" cellpadding="0" cellspacing="0" width="620"
+      tr
+        td width="310" height="51" valign="middle" align="center"
+          a.pk_lib_min.txtcenter href==($s9c1_libPk3) target="_blank"
+            == $lib3
+        td width="310" height="51" valign="middle" align="center"
+          a.pk_lib_min.txtcenter href==($s9c2_libPk4) target="_blank"
+            == $lib4
+tr
+  td width="620" height="23"
+tr
+  td
+    table border="0" cellpadding="0" cellspacing="0" width="620"
+      tr
+        td width="8" height="296"
+        td
+          a href==($s11c2_pk5) target="_blank"
+            img src==(($abspath == true ? $srcAbs : $srcRel)+"s11c2_pk5.jpg") width="292" height="296" border="0" alt==($alt_s11c2_pk5 ? $alt_s11c2_pk5 : "")
+        td width="20" height="296"
+        td
+          a href==($s11c4_pk6) target="_blank"
+            img src==(($abspath == true ? $srcAbs : $srcRel)+"s11c4_pk6.jpg") width="292" height="296" border="0" alt==($alt_s11c4_pk6 ? $alt_s11c4_pk6 : "")
+        td width="8" height="296"
+tr
+  td
+    table border="0" cellpadding="0" cellspacing="0" width="620"
+      tr
+        td width="310" height="51" valign="middle" align="center"
+          a.pk_lib_min.txtcenter href==($s12c1_libPk5) target="_blank"
+            == $lib5
+        td width="310" height="51" valign="middle" align="center"
+          a.pk_lib_min.txtcenter href==($s12c1_libPk6) target="_blank"
+            == $lib6
+tr
+  td.pb20
+    a href==($s13_btnRay) target="_blank"
+      img src==(($abspath == true ? $srcAbs : $srcRel)+"s13_btnRay.png") width="620" height="86" border="0" alt==($alt_s13_btnRay ? $alt_s13_btnRay : "")
