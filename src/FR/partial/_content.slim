@@ -44,8 +44,8 @@ tr
         tr
           - slice.each do |item|
             / pk1_ml
-            td width="10" height="296"
-              == item[1] % 2 === 0
+            / td width="10" height="296"
+            == item[1] % 2 === 0 ? "<td width=\"10\" height=\"296\"></td>" : "<td width=\"8\" height=\"296\"></td>"
             td
               a href==($pk1) target="_blank"
                 / = item[1] % 2 === 0
@@ -55,8 +55,6 @@ tr
             - else
               td width="10" height="296"
 
-            / pk1_mr
-            / - item[1] % 2 == 0 ? '<td width="10" height="296"></td>' : '<td width="8" height="296"></td>'
     /! #######ENDligne#{i + 1}
 tr
   td
