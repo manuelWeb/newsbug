@@ -3,34 +3,28 @@
   "campaignName": "salades",
   "campaignNameM": "salades",
   "title": {
-    "bf": "Les essentiels pour préparer votre jardin dès 7,99€ !",
+    "bf": "Composez votre salade comme un chef dès 6.95€ !",
     "bv": "De belangrijkste dingen om uw tuin voor te bereiden vanaf €7,99!",
     "de": "Das Wichtigste zum Herrichten Ihres Gartens ab 7,99€!",
-    "fr": "Les essentiels pour préparer votre jardin dès 7,99€ !",
+    "fr": "Composez votre salade comme un chef dès 6.95€ !",
     "nl": "De belangrijkste dingen om uw tuin voor te bereiden vanaf €7,99!",
     "uk": "The essentials for preparing your garden starting at £7,99!"
   },
   "head_doc": {
-    "bf":
-      "Découvrez vite notre sélection pour préparer au mieux votre jardin  à partir de 7,99€ !",
-    "bv":
-      "Ontdek snel onze selectie om zo goed mogelijk uw tuin voor te bereiden vanaf €7,99!",
-    "de":
-      "Entdecken Sie schnell unsere Auswahl zum bestmöglichen Herrichten Ihres Gartens ab €7,99!",
-    "fr":
-      "Découvrez vite notre sélection pour préparer au mieux votre jardin  à partir de 7,99€ !",
-    "nl":
-      "Ontdek snel onze selectie om zo goed mogelijk uw tuin voor te bereiden vanaf €7,99!",
-    "uk":
-      "Discover fast our selection for preparing your garden at best starting at £7,99!"
+    "bf": "Sélection spéciale Salades composées !<br />On épluche, on coupe et on mélange !<br />Découvrez notre sélection spéciale à partir de 6,95€ !",
+    "bv": "Ontdek snel onze selectie om zo goed mogelijk uw tuin voor te bereiden vanaf €7,99!",
+    "de": "Entdecken Sie schnell unsere Auswahl zum bestmöglichen Herrichten Ihres Gartens ab €7,99!",
+    "fr": "Sélection spéciale Salades composées !<br />On épluche, on coupe et on mélange !<br />Découvrez notre sélection spéciale à partir de 6,95€ !",
+    "nl": "Ontdek snel onze selectie om zo goed mogelijk uw tuin voor te bereiden vanaf €7,99!",
+    "uk": "Discover fast our selection for preparing your garden at best starting at £7,99!"
   },
   "ID": {
-    "bf": "1720",
-    "bv": "1724",
-    "de": "1723",
-    "fr": "1721",
-    "nl": "1719",
-    "uk": "1722"
+    "bf": "1750",
+    "bv": "1754",
+    "de": "1753",
+    "fr": "1751",
+    "nl": "1749",
+    "uk": "1752"
   },
   "count" : {
     "un"    : 1,
@@ -41,10 +35,10 @@
     "six"   : 6
   },
   "price_title": {
-    "bf": "Sélection à partir de 7,99€",
+    "bf": ["&nbsp;Sélection à partir de ","6.95 €"],
     "bv": "Selectie vanaf €7.99",
     "de": "Auswahl ab €7.99",
-    "fr": "&nbsp;Sélection à partir de 7,99€",
+    "fr": ["&nbsp;Sélection à partir de ","6.95 €"],
     "nl": "Selectie vanaf €7.99",
     "uk": "Selection starting at £7.99"
   },
@@ -53,7 +47,7 @@
       "bf": "",
       "bv": "",
       "de": "",
-      "fr": "01.00 €",
+      "fr": "6.95 €",
       "nl": "",
       "uk": ""
     },
@@ -61,7 +55,7 @@
       "bf": "",
       "bv": "",
       "de": "",
-      "fr": "02 €",
+      "fr": "12.90 €",
       "nl": "",
       "uk": ""
     },
@@ -69,7 +63,7 @@
       "bf": "",
       "bv": "",
       "de": "",
-      "fr": "03 €",
+      "fr": "14.95 €",
       "nl": "",
       "uk": ""
     },
@@ -77,7 +71,7 @@
       "bf": "",
       "bv": "",
       "de": "",
-      "fr": "04 €",
+      "fr": "7.95 €",
       "nl": "",
       "uk": ""
     },
@@ -85,7 +79,7 @@
       "bf": "",
       "bv": "",
       "de": "",
-      "fr": "05 €",
+      "fr": "14.95 €",
       "nl": "",
       "uk": ""
     },
@@ -93,7 +87,7 @@
       "bf": "",
       "bv": "",
       "de": "",
-      "fr": "06 €",
+      "fr": "19.00 €",
       "nl": "",
       "uk": ""
     }
@@ -157,10 +151,10 @@
     }
   },
   "btn": {
-    "bf": ["Découvrez vite ", "notre sélection !"],
+    "bf": ["&nbsp;Découvrez vite ", "notre sélection !"],
     "bv": ["Ontdek snel ", "onze selectie!"],
     "de": ["Entdecken Sie schnell ", "unsere Auswahl!"],
-    "fr": ["Découvrez vite ", "notre sélection !"],
+    "fr": ["&nbsp;Découvrez vite ", "notre sélection !"],
     "nl": ["Ontdek snel ", "onze selectie!"],
     "uk": ["Discover quickly ", "our selection!"]
   },
