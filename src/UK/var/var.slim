@@ -1,0 +1,62 @@
+/### change link + alt autre : cf source.json
+
+/### do not change
+-$mirorLink = "https://tempsl.com/Newsletters/miroir/#{$miror}/UK/index.htm"
+-$srcAbs    = "https://tempsl.com/Newsletters/miroir/News_#{$objso["campaignName"]}_#{$objso["date"]}/UK/images/"
+/### do not change content link
+-$srcmedium =["?utm_source=NL&utm_medium=email","&utm_source=NL&utm_medium=email"]
+-$content   =["&utm_content=","url","garantie","livraison","paiement","contact","desabo","CGV"]
+/### do not change footer
+-$haconfiance =["achat_confiance/","garanties.aspx","informations-livraison.aspx","paiement-securise.aspx","conditions-generales-de-vente.aspx"]
+/### do not change mentions
+-$contactdesabo=["idealpractical_and_you/contact.aspx?val=A","animation/DesinscriptionNewsletter.aspx"]
+/ compact
+-urlRay = $objso["url"]["uk"]+$objso["ray"]+$objso["ID"]["uk"]+$srcmedium[1]+$content[0]
+-pdt    = { # ...,
+  gg: "#{$srcmedium[0]}#{$content[0]}",
+  pk1: "#{$objso["url"]["uk"]}#{$objso["link"]["pk1"]["uk"]}",
+  pk2: "#{$objso["url"]["uk"]}#{$objso["link"]["pk2"]["uk"]}",
+  pk3: "#{$objso["url"]["uk"]}#{$objso["link"]["pk3"]["uk"]}",
+  pk4: "#{$objso["url"]["uk"]}#{$objso["link"]["pk4"]["uk"]}",
+  pk5: "#{$objso["url"]["uk"]}#{$objso["link"]["pk5"]["uk"]}",
+  pk6: "#{$objso["url"]["uk"]}#{$objso["link"]["pk6"]["uk"]}",
+  }
+
+/ ### lib UK
+- $lib1 = $objso["lib"]["uk"]["pk1"]
+- $lib2 = $objso["lib"]["uk"]["pk2"]
+- $lib3 = $objso["lib"]["uk"]["pk3"]
+- $lib4 = $objso["lib"]["uk"]["pk4"]
+- $lib5 = $objso["lib"]["uk"]["pk5"]
+- $lib6 = $objso["lib"]["uk"]["pk6"]
+
+- $price = $objso["price"]["uk"]
+- $btn = $objso["btn"]["uk"]
+
+/### content link ["logo", "accroche", "pdt", "prix", "bouton" ]
+- $s0_logo          = "#{$objso["url"]["uk"]}index.aspx#{pdt[:gg]}logo#{$campaign}"
+
+/ to change :
+- $s1_ambiance         = "#{urlRay}accroche#{$campaign}"
+- $s2_title            = "#{urlRay}accroche#{$campaign}"
+- $s3_callPrice        = "#{urlRay}price#{$campaign}"
+- $s5c2_pk1            = pdt[:pk1]+pdt[:gg]+"pdt"+$campaign
+- $s5c4_pk2            = pdt[:pk2]+pdt[:gg]+"pdt"+$campaign
+- $s6c1_libPk1         = pdt[:pk1]+pdt[:gg]+"pdt"+$campaign
+- $s6c2_libPk2         = pdt[:pk2]+pdt[:gg]+"pdt"+$campaign
+- $s8c2_pk3            = pdt[:pk3]+pdt[:gg]+"pdt"+$campaign
+- $s8c4_pk4            = pdt[:pk4]+pdt[:gg]+"pdt"+$campaign
+- $s9c1_libPk3         = pdt[:pk3]+pdt[:gg]+"pdt"+$campaign
+- $s9c2_libPk4         = pdt[:pk4]+pdt[:gg]+"pdt"+$campaign
+- $s11c2_pk5           = pdt[:pk5]+pdt[:gg]+"pdt"+$campaign
+- $s11c4_pk6           = pdt[:pk6]+pdt[:gg]+"pdt"+$campaign
+- $s12c1_libPk5        = pdt[:pk5]+pdt[:gg]+"pdt"+$campaign
+- $s12c1_libPk6        = pdt[:pk6]+pdt[:gg]+"pdt"+$campaign
+- $s13_btnRay          = "#{urlRay}bouton#{$campaign}"
+
+/ alt to change :
+- $alt_s2_title     = "The essentials for preparing your garden!"
+- $alt_s13_btnRay   = "Discover fast our gardening selection! "
+
+// don't change
+- $alt_logo   = "IDEAL PRACTICAL"
