@@ -3,12 +3,14 @@ var slim    = require("gulp-slim");
 var foreach = require("gulp-foreach");
 var rename  = require('gulp-rename');
 var bs      = require('browser-sync');
+var plumber = require('gulp-plumber');
 // Promise
 module.exports = function () {
   gulp.task('slim', function () {
     return Promise.all([
       new Promise(function (resolve, reject) {
         gulp.src(['src/**/slim/*.slim'])
+          .pipe(plumber())
         .pipe(slim())
         .on('error', reject)
         .pipe(rename(function(path) {

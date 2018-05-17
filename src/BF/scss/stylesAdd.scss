@@ -14,10 +14,7 @@ $vartxtcolor: #DF131F;
 // news
 .callprice {margin: 0 auto; font-family:  Arial, sans-serif; font-size: 24px; color: #FFFFFF; text-align: center; text-decoration: none;}
 .pk_lib {
-  font-family: Arial, sans-serif; font-size: 18px; color: #003300; line-height: 25px; text-decoration: none;
-  span {
-    font-size: 16px;
-  }
+  font-family: Arial, sans-serif; font-size: 21px; color: #003300; line-height: 25px; text-decoration: none;
 }
 .pk_lib_min {
   font-family: Arial, sans-serif; font-size: 20px; color: #003300; line-height: 25px; text-decoration: none;
@@ -25,7 +22,6 @@ $vartxtcolor: #DF131F;
     font-size: 10px;
   }
 }
-.di {display: inline;}
 // à nettoyer
 body {width: 100%; margin: 0; line-height: 121%; background-color: $varbgcolor;}
 img {display: block; font-family: Arial, sans-serif; font-size: 16px;}
