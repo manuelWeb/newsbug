@@ -69,7 +69,8 @@ tr
                   tr
                     td align="center" valign="middle"
                       a.pk_lib.txtcenter href==(eval("$pk#{item[1]}_link")) target="_blank"
-                        == $objso["lib"]["fr"]["pk#{item[1]}"]
+                        / == $objso["lib"]["fr"]["pk#{item[1]}"]
+                        == eval("$lib#{item[1]}")
                         br
                         span == $objso["lib"]["fr_"]["pk#{item[1]}"]
                         br
