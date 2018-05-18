@@ -44,78 +44,102 @@
   },
   "price": {
     "pk1" : {
-      "bf": "",
-      "bv": "",
-      "de": "",
+      "bf": "€19.95",
+      "bv": "€19.95",
+      "de": "€19.95",
       "fr": "6.95 €",
-      "nl": "",
-      "uk": ""
+      "nl": "€19.95",
+      "uk": "€19.95"
     },
     "pk2" : {
-      "bf": "",
-      "bv": "",
-      "de": "",
+      "bf": "€12.90",
+      "bv": "€12.90",
+      "de": "€12.90",
       "fr": "12.90 €",
-      "nl": "",
-      "uk": ""
+      "nl": "€12.90",
+      "uk": "€12.90"
     },
     "pk3" : {
-      "bf": "",
-      "bv": "",
-      "de": "",
+      "bf": "€14.95",
+      "bv": "€14.95",
+      "de": "€14.95",
       "fr": "14.95 €",
-      "nl": "",
-      "uk": ""
+      "nl": "€14.95",
+      "uk": "€14.95"
     },
     "pk4" : {
-      "bf": "",
-      "bv": "",
-      "de": "",
+      "bf": "€7.95",
+      "bv": "€7.95",
+      "de": "€7.95",
       "fr": "7.95 €",
-      "nl": "",
-      "uk": ""
+      "nl": "€7.95",
+      "uk": "€7.95"
     },
     "pk5" : {
-      "bf": "",
-      "bv": "",
-      "de": "",
+      "bf": "€14.95",
+      "bv": "€14.95",
+      "de": "€14.95",
       "fr": "14.95 €",
-      "nl": "",
-      "uk": ""
+      "nl": "€14.95",
+      "uk": "€14.95"
     },
     "pk6" : {
-      "bf": "",
-      "bv": "",
-      "de": "",
+      "bf": "€19.00",
+      "bv": "€19.00",
+      "de": "€19.00",
       "fr": "<s>29.00 €</s> 19.00 €",
-      "nl": "",
-      "uk": ""
+      "nl": "€19.00",
+      "uk": "€19.00"
     }
   },
   "lib": {
     "bf": {
-      "pk1": "Panier de jardinage",
-      "pk2": "Perfect grass<sup>®</sup> de Canada Green",
-      "pk3": "Agenouilloir à poignées",
-      "pk4": "Arrache mauvaises herbes ",
-      "pk5": "Coupe fleurs fanées",
-      "pk6": "Lot de 14 fausses pierres"
+      "pk1": "Livre Simplissime salades",
+      "pk2": "Eminceur salade",
+      "pk3": "Tranche-tout express",
+      "pk4": "Guide coupe-oeufs/tomates",
+      "pk5": "Vinaigrier mixeur",
+      "pk6": "Râpe à manivelle"
+    },
+    "bf_": {
+      "pk1": "45 salades faciles, originales et délicieuses…",
+      "pk2": "La salade émincée : un secret de chef !",
+      "pk3": "Une révolution dans la cuisine !",
+      "pk4": "Des tranches parfaites sans vous couper !",
+      "pk5": "Le secret d’une vinaigrette parfaite et… sans aucun effort !",
+      "pk6": "Elle râpe… tout facilement !"
     },
     "bv": {
-      "pk1": "Tuiniermand",
-      "pk2": "Perfect Grass<sup>®</sup> van Canada Green",
-      "pk3": "Kniesteun met grepen",
-      "pk4": "Onkruidwieder",
-      "pk5": "Snoeischaar",
-      "pk6": "Set van 14 nepstenen"
+      "pk1": "5 bewaarkommen",
+      "pk2": "Slaversnipperaar",
+      "pk3": "Snelle allessnijder",
+      "pk4": "Snijhulp eieren/tomaten",
+      "pk5": "Vinaigretteshaker",
+      "pk6": "Rasp met zwengel"
+    },
+    "bv_": {
+      "pk1": "Handig en polyvalent: de toppers onder de bewaardozen!",
+      "pk2": "Fijngesneden sla : een geheimpje van de chef-kok!",
+      "pk3": "Revolutionair in de keuken",
+      "pk4": "Perfecte schijfjes zonder u te snijden!",
+      "pk5": "Het geheim van een perfecte vinaigrette... zonder enige moeite!",
+      "pk6": "Rasp alles... heel eenvoudig!"
     },
     "de": {
-      "pk1": "Korb für Gartenarbeiten",
-      "pk2": "Perfect Grass<sup>®</sup> von Canada Green",
-      "pk3": "Kniebänkchen mit Griffen",
-      "pk4": "Unkrautjäter",
-      "pk5": "Blumenschere",
-      "pk6": "Set mit 14 künstlichen Steinen"
+      "pk1": "5 Multi-Boxen",
+      "pk2": "Salatschere",
+      "pk3": "Express-Allesschneider",
+      "pk4": "Eier-/Tomatenschneider",
+      "pk5": "Vinaigrette-Shaker",
+      "pk6": "Reibe mit Kurbel"
+    },
+    "de_": {
+      "pk1": "Praktisch und vielseitig einsetzbar: Das Nonplusultra unter den Aufbewahrungsboxen!",
+      "pk2": "Klein geschnippelter Salat - ein Geheimnis des Küchenchefs!",
+      "pk3": "Eine Revolution in der Küche",
+      "pk4": "Perfekte Scheiben, ohne dass Sie sich schneiden!",
+      "pk5": "Das Geheimnis einer perfekten und mühelos hergestellten Vinaigrette!",
+      "pk6": "Kinderleicht geraspelt!"
     },
     "fr": {
       "pk1": "Livre Simplissime salades",
@@ -134,20 +158,36 @@
       "pk6": "Elle râpe… tout facilement !"
     },
     "nl": {
-      "pk1": "Tuiniermand",
-      "pk2": "Perfect Grass<sup>®</sup> van Canada Green",
-      "pk3": "Kniesteun met grepen",
-      "pk4": "Onkruidwieder",
-      "pk5": "Snoeischaar",
-      "pk6": "Set van 14 nepstenen"
+      "pk1": "5 bewaarkommen",
+      "pk2": "Slaversnipperaar",
+      "pk3": "Snelle allessnijder",
+      "pk4": "Snijhulp eieren/tomaten",
+      "pk5": "Vinaigretteshaker",
+      "pk6": "Rasp met zwengel"
+    },
+    "nl_": {
+      "pk1": "Handig en polyvalent: de toppers onder de bewaardozen!",
+      "pk2": "Fijngesneden sla : een geheimpje van de chef-kok!",
+      "pk3": "Revolutionair in de keuken",
+      "pk4": "Perfecte schijfjes zonder u te snijden!",
+      "pk5": "Het geheim van een perfecte vinaigrette... zonder enige moeite!",
+      "pk6": "Rasp alles... heel eenvoudig!"
     },
     "uk": {
-      "pk1": "Garden basket",
-      "pk2": "Lawn repairer",
-      "pk3": "Kneeling pad with handles",
-      "pk4": "Weed puller",
-      "pk5": "Dead head cutter",
-      "pk6": "Set of 14 imitation stones"
+      "pk1": "5 salad containers",
+      "pk2": "Salad shredders",
+      "pk3": "Fast universal slicer",
+      "pk4": "Egg/tomato slicing helper",
+      "pk5": "Vinaigrette mixer",
+      "pk6": "Grater with crank handle"
+    },
+    "uk_": {
+      "pk1": "Practical and versatile: the ultimate in storage containers!",
+      "pk2": "Shredded salad : a chef's secret",
+      "pk3": "A revolution in the kitchen",
+      "pk4": "Perfect slices without cutting yourself!",
+      "pk5": "The secret to a perfect vinaigrette every time!",
+      "pk6": "It grates ... very easily!"
     }
   },
   "btn": {
