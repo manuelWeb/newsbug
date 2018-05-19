@@ -3,75 +3,143 @@
   "campaignName": "salades",
   "campaignNameM": "salades",
   "title": {
-    "bf": "Les essentiels pour préparer votre jardin dès 7,99€ !",
-    "bv": "De belangrijkste dingen om uw tuin voor te bereiden vanaf €7,99!",
-    "de": "Das Wichtigste zum Herrichten Ihres Gartens ab 7,99€!",
-    "fr": "Les essentiels pour préparer votre jardin dès 7,99€ !",
-    "nl": "De belangrijkste dingen om uw tuin voor te bereiden vanaf €7,99!",
-    "uk": "The essentials for preparing your garden starting at £7,99!"
+    "bf": "Composez votre salade comme un chef dès 6.95€ !",
+    "bv": "Stel uw salade tezamen zoals een chef vanaf €6,95!",
+    "de": "Stellen Sie Ihren Salat wie ein Küchenchef zusammen ab 6.95€!",
+    "fr": "Composez votre salade comme un chef dès 6.95€ !",
+    "nl": "Stel uw salade tezamen zoals een chef vanaf €6,95!",
+    "uk": " Compose your salad like a chef from 6.95£!"
   },
   "head_doc": {
-    "bf":
-      "Découvrez vite notre sélection pour préparer au mieux votre jardin  à partir de 7,99€ !",
-    "bv":
-      "Ontdek snel onze selectie om zo goed mogelijk uw tuin voor te bereiden vanaf €7,99!",
-    "de":
-      "Entdecken Sie schnell unsere Auswahl zum bestmöglichen Herrichten Ihres Gartens ab €7,99!",
-    "fr":
-      "Découvrez vite notre sélection pour préparer au mieux votre jardin  à partir de 7,99€ !",
-    "nl":
-      "Ontdek snel onze selectie om zo goed mogelijk uw tuin voor te bereiden vanaf €7,99!",
-    "uk":
-      "Discover fast our selection for preparing your garden at best starting at £7,99!"
+    "bf": "Sélection spéciale Salades composées !<br />On épluche, on coupe et on mélange !<br />Découvrez notre sélection spéciale à partir de 6,95€ !",
+    "bv": "Selectie speciaal samengestelde salades!<br /> Schillen, snijden en mengen!<br /> Ontdek onze speciale selectie vanaf €6,95!",
+    "de": "Spezielle Auswahl gemischte Salate!<br /> Schälen, schneiden und mischen!<br /> Entdecken Sie unsere spezielle Auswahl ab 6.95€!",
+    "fr": "Sélection spéciale Salades composées !<br />On épluche, on coupe et on mélange !<br />Découvrez notre sélection spéciale à partir de 6,95€ !",
+    "nl": "Selectie speciaal samengestelde salades!<br /> Schillen, snijden en mengen!<br /> Ontdek onze speciale selectie vanaf €6,95!",
+    "uk": " Special selection mixed salads!<br /> Peel, cut and mix!<br /> Discover our special selection from 6.95£!"
   },
   "ID": {
-    "bf": "1720",
-    "bv": "1724",
-    "de": "1723",
-    "fr": "1721",
-    "nl": "1719",
-    "uk": "1722"
+    "bf": "1750",
+    "bv": "1754",
+    "de": "1753",
+    "fr": "1751",
+    "nl": "1749",
+    "uk": "1752"
+  },
+  "count" : {
+    "un"    : 1,
+    "deux"  : 2,
+    "trois" : 3,
+    "quatre": 4,
+    "cinq"  : 5,
+    "six"   : 6
+  },
+  "price_title": {
+    "bf": ["&nbsp;Sélection à partir de ","6.95 €"],
+    "bv": ["&nbsp;Selectie vanaf ","€6.95"],
+    "de": ["&nbsp;Auswahl ab ","€6.95"],
+    "fr": ["&nbsp;Sélection à partir de ","6.95 €"],
+    "nl": ["&nbsp;Selectie vanaf ","€6.95"],
+    "uk": ["&nbsp;Selection starting at ","£6.95"]
   },
   "price": {
-    "bf": "Sélection à partir de 7,99€",
-    "bv": "Selectie vanaf €7.99",
-    "de": "Auswahl ab €7.99",
-    "fr": "Sélection à partir de 7,99€",
-    "nl": "Selectie vanaf €7.99",
-    "uk": "Selection starting at £7.99"
-  },
-  "img_": {
-    "pk1": "1",
-    "pk2": "2",
-    "pk3": "3",
-    "pk4": "4",
-    "pk5": "5",
-    "pk6": "6"
+    "pk1" : {
+      "bf": "€19.95",
+      "bv": "€19.95",
+      "de": "€19.95",
+      "fr": "6.95 €",
+      "nl": "€19.95",
+      "uk": "€19.95"
+    },
+    "pk2" : {
+      "bf": "€12.90",
+      "bv": "€12.90",
+      "de": "€12.90",
+      "fr": "12.90 €",
+      "nl": "€12.90",
+      "uk": "€12.90"
+    },
+    "pk3" : {
+      "bf": "€14.95",
+      "bv": "€14.95",
+      "de": "€14.95",
+      "fr": "14.95 €",
+      "nl": "€14.95",
+      "uk": "€14.95"
+    },
+    "pk4" : {
+      "bf": "€7.95",
+      "bv": "€7.95",
+      "de": "€7.95",
+      "fr": "7.95 €",
+      "nl": "€7.95",
+      "uk": "€7.95"
+    },
+    "pk5" : {
+      "bf": "€14.95",
+      "bv": "€14.95",
+      "de": "€14.95",
+      "fr": "14.95 €",
+      "nl": "€14.95",
+      "uk": "€14.95"
+    },
+    "pk6" : {
+      "bf": "<s>€29.00</s><br />€19.00",
+      "bv": "<s>€29.00</s><br />€19.00",
+      "de": "<s>€29.00</s><br />€19.00",
+      "fr": "<s>29.00 €</s><br />19.00 €",
+      "nl": "<s>€29.00</s><br />€19.00",
+      "uk": "<s>€29.00</s><br />€19.00"
+    }
   },
   "lib": {
     "bf": {
-      "pk1": "Panier de jardinage",
-      "pk2": "Perfect grass<sup>®</sup> de Canada Green",
-      "pk3": "Agenouilloir à poignées",
-      "pk4": "Arrache mauvaises herbes ",
-      "pk5": "Coupe fleurs fanées",
-      "pk6": "Lot de 14 fausses pierres"
+      "pk1": "Livre Simplissime salades",
+      "pk2": "Eminceur salade",
+      "pk3": "Tranche-tout express",
+      "pk4": "Guide coupe-oeufs/tomates",
+      "pk5": "Vinaigrier mixeur",
+      "pk6": "Râpe à manivelle"
+    },
+    "bf_": {
+      "pk1": "45 salades faciles, originales et délicieuses…",
+      "pk2": "La salade émincée : un secret de chef !",
+      "pk3": "Une révolution dans la cuisine !",
+      "pk4": "Des tranches parfaites sans vous couper !",
+      "pk5": "Le secret d’une vinaigrette parfaite et… sans aucun effort !",
+      "pk6": "Elle râpe… tout facilement !"
     },
     "bv": {
-      "pk1": "Tuiniermand",
-      "pk2": "Perfect Grass<sup>®</sup> van Canada Green",
-      "pk3": "Kniesteun met grepen",
-      "pk4": "Onkruidwieder",
-      "pk5": "Snoeischaar",
-      "pk6": "Set van 14 nepstenen"
+      "pk1": "5 bewaarkommen",
+      "pk2": "Slaversnipperaar",
+      "pk3": "Snelle allessnijder",
+      "pk4": "Snijhulp eieren/tomaten",
+      "pk5": "Vinaigretteshaker",
+      "pk6": "Rasp met zwengel"
+    },
+    "bv_": {
+      "pk1": "Handig en polyvalent: de toppers onder de bewaardozen!",
+      "pk2": "Fijngesneden sla : een geheimpje van de chef-kok!",
+      "pk3": "Revolutionair in de keuken",
+      "pk4": "Perfecte schijfjes zonder u te snijden!",
+      "pk5": "Het geheim van een perfecte vinaigrette... zonder enige moeite!",
+      "pk6": "Rasp alles... heel eenvoudig!"
     },
     "de": {
-      "pk1": "Korb für Gartenarbeiten",
-      "pk2": "Perfect Grass<sup>®</sup> von Canada Green",
-      "pk3": "Kniebänkchen mit Griffen",
-      "pk4": "Unkrautjäter",
-      "pk5": "Blumenschere",
-      "pk6": "Set mit 14 künstlichen Steinen"
+      "pk1": "5 Multi-Boxen",
+      "pk2": "Salatschere",
+      "pk3": "Express-Allesschneider",
+      "pk4": "Eier-/Tomatenschneider",
+      "pk5": "Vinaigrette-Shaker",
+      "pk6": "Reibe mit Kurbel"
+    },
+    "de_": {
+      "pk1": "Praktisch und vielseitig einsetzbar: Das Nonplusultra unter den Aufbewahrungsboxen!",
+      "pk2": "Klein geschnippelter Salat - ein Geheimnis des Küchenchefs!",
+      "pk3": "Eine Revolution in der Küche",
+      "pk4": "Perfekte Scheiben, ohne dass Sie sich schneiden!",
+      "pk5": "Das Geheimnis einer perfekten und mühelos hergestellten Vinaigrette!",
+      "pk6": "Kinderleicht geraspelt!"
     },
     "fr": {
       "pk1": "Livre Simplissime salades",
@@ -90,92 +158,94 @@
       "pk6": "Elle râpe… tout facilement !"
     },
     "nl": {
-      "pk1": "Tuiniermand",
-      "pk2": "Perfect Grass<sup>®</sup> van Canada Green",
-      "pk3": "Kniesteun met grepen",
-      "pk4": "Onkruidwieder",
-      "pk5": "Snoeischaar",
-      "pk6": "Set van 14 nepstenen"
+      "pk1": "5 bewaarkommen",
+      "pk2": "Slaversnipperaar",
+      "pk3": "Snelle allessnijder",
+      "pk4": "Snijhulp eieren/tomaten",
+      "pk5": "Vinaigretteshaker",
+      "pk6": "Rasp met zwengel"
+    },
+    "nl_": {
+      "pk1": "Handig en polyvalent: de toppers onder de bewaardozen!",
+      "pk2": "Fijngesneden sla : een geheimpje van de chef-kok!",
+      "pk3": "Revolutionair in de keuken",
+      "pk4": "Perfecte schijfjes zonder u te snijden!",
+      "pk5": "Het geheim van een perfecte vinaigrette... zonder enige moeite!",
+      "pk6": "Rasp alles... heel eenvoudig!"
     },
     "uk": {
-      "pk1": "Garden basket",
-      "pk2": "Lawn repairer",
-      "pk3": "Kneeling pad with handles",
-      "pk4": "Weed puller",
-      "pk5": "Dead head cutter",
-      "pk6": "Set of 14 imitation stones"
+      "pk1": "5 salad containers",
+      "pk2": "Salad shredders",
+      "pk3": "Fast universal slicer",
+      "pk4": "Egg/tomato slicing helper",
+      "pk5": "Vinaigrette mixer",
+      "pk6": "Grater with crank handle"
+    },
+    "uk_": {
+      "pk1": "Practical and versatile: the ultimate in storage containers!",
+      "pk2": "Shredded salad : a chef's secret",
+      "pk3": "A revolution in the kitchen",
+      "pk4": "Perfect slices without cutting yourself!",
+      "pk5": "The secret to a perfect vinaigrette every time!",
+      "pk6": "It grates ... very easily!"
     }
   },
   "btn": {
-    "bf": ["Découvrez vite ", "notre sélection !"],
+    "bf": ["&nbsp;Découvrez vite ", "notre sélection !"],
     "bv": ["Ontdek snel ", "onze selectie!"],
     "de": ["Entdecken Sie schnell ", "unsere Auswahl!"],
-    "fr": ["Découvrez vite ", "notre sélection !"],
+    "fr": ["&nbsp;Découvrez vite ", "notre sélection !"],
     "nl": ["Ontdek snel ", "onze selectie!"],
     "uk": ["Discover quickly ", "our selection!"]
   },
   "link": {
     "pk1": {
-      "bf": "loisirs/entretien-outils-jardin/panier-jardinage/3752110.html",
-      "bv": "vrije-tijd/tuingereedschap/tuiniermand/3752110.html",
-      "de":
-        "sonstiges/gartenpflege-und-gerate/korb-fur-gartenarbeiten/3752110.html",
-      "fr": "loisirs/entretien-outils-jardin/panier-jardinage/3752110.html",
-      "nl": "vrije-tijd/tuingereedschap/tuiniermand/3752110.html",
-      "uk": "interests/maintenance-gardeningtools/garden-basket/3752110.html"
+      "bf": "cuisine/livres-recettes/livre-simplissime-salades/3883113.html",
+      "bv": "keuken/dozen-voor-keuken/5-bewaarkommen/0867416.html",
+      "de": "kuche/kuchendosen/5-multi-boxen/0867416.html",
+      "fr": "cuisine/livres-recettes/livre-simplissime-salades/3883113.html",
+      "nl": "keuken/dozen-voor-keuken/5-bewaarkommen/0867416.html",
+      "uk": "kitchen/storage-boxes/5-salad-containers/0867416.html"
     },
     "pk2": {
-      "bf":
-        "loisirs/entretien-outils-jardin/perfect-grass-1kg-canada-green/5297312.html",
-      "bv":
-        "vrije-tijd/tuingereedschap/1kg-perfect-grass-van-canada-green/5297312.html",
-      "de":
-        "sonstiges/gartenpflege-und-gerate/perfect-grass-1-kg-von-canada-green/5297312.html",
-      "fr":
-        "loisirs/entretien-outils-jardin/perfect-grass-1kg-canada-green/5297312.html",
-      "nl":
-        "vrije-tijd/tuingereedschap/1kg-perfect-grass-van-canada-green/5297312.html",
-      "uk": "interests/maintenance-gardeningtools/lawn-repairer/1602119.html"
+      "bf": "cuisine/decoupe/eminceur-salade/3881117.html",
+      "bv": "keuken/snijden/slaversnipperaar/3881117.html",
+      "de": "kuche/schneiden/salatschere/3881117.html",
+      "fr": "cuisine/decoupe/eminceur-salade/3881117.html",
+      "nl": "keuken/snijden/slaversnipperaar/3881117.html",
+      "uk": "kitchen/cutting/salad-shredders/3881117.html"
     },
     "pk3": {
-      "bf":
-        "loisirs/entretien-outils-jardin/agenouilloir-a-poignees/2051118.html",
-      "bv": "vrije-tijd/tuingereedschap/kniesteun-met-grepen/2051118.html",
-      "de":
-        "sonstiges/gartenpflege-und-gerate/kniebankchen-mit-griffen/2051118.html",
-      "fr":
-        "loisirs/entretien-outils-jardin/agenouilloir-a-poignees/2051118.html",
-      "nl": "vrije-tijd/tuingereedschap/kniesteun-met-grepen/2051118.html",
-      "uk":
-        "interests/maintenance-gardeningtools/kneeling-pad-with-handles/2051118.html"
+      "bf": "cuisine/decoupe/tranche-tout-express/1526110.html",
+      "bv": "keuken/snijden/snelle-allessnijder/1526110.html",
+      "de": "kuche/schneiden/express-allesschneider/1526110.html",
+      "fr": "cuisine/decoupe/tranche-tout-express/1526110.html",
+      "nl": "keuken/snijden/snelle-allessnijder/1526110.html",
+      "uk": "kitchen/cutting/fast-universal-slicer/1526110.html"
     },
     "pk4": {
-      "bf":
-        "loisirs/entretien-outils-jardin/arrache-mauvaises-herbes/4882015.html",
-      "bv": "vrije-tijd/tuingereedschap/onkruidwieder/4882015.html",
-      "de": "sonstiges/gartenpflege-und-gerate/unkrautjater/4882015.html",
-      "fr":
-        "loisirs/entretien-outils-jardin/arrache-mauvaises-herbes/4882015.html",
-      "nl": "vrije-tijd/tuingereedschap/onkruidwieder/4882015.html",
-      "uk": "interests/maintenance-gardeningtools/weed-puller/4882015.html"
+      "bf": "cuisine/decoupe/guide-coupe-oeufs-tomates/3877115.html",
+      "bv": "keuken/snijden/snijhulp-eieren-tomaten/3877115.html",
+      "de": "kuche/schneiden/eier-tomatenschneider/3877115.html",
+      "fr": "cuisine/decoupe/guide-coupe-oeufs-tomates/3877115.html",
+      "nl": "keuken/snijden/snijhulp-eieren-tomaten/3877115.html",
+      "uk": "kuche/schneiden/eier-tomatenschneider/3877115.html"
     },
     "pk5": {
-      "bf": "loisirs/entretien-outils-jardin/coupe-fleurs-fanees/4320313.html",
-      "bv": "vrije-tijd/tuingereedschap/snoeischaar/4320313.html",
-      "de": "sonstiges/gartenpflege-und-gerate/blumenschere/4320313.html",
-      "fr": "loisirs/entretien-outils-jardin/coupe-fleurs-fanees/4320313.html",
-      "nl": "vrije-tijd/tuingereedschap/snoeischaar/4320313.html",
-      "uk": "interests/maintenance-gardeningtools/dead-head-cutter/4320313.html"
+      "bf": "cuisine/ustensiles-cuisine/vinaigrier-mixeur/5897111.html",
+      "bv": "keuken/keukengerei/vinaigretteshaker/5897111.html",
+      "de": "kuche/kuchenutensilien/vinaigrette-shaker/5897111.html",
+      "fr": "cuisine/ustensiles-cuisine/vinaigrier-mixeur/5897111.html",
+      "nl": "keuken/keukengerei/vinaigretteshaker/5897111.html",
+      "uk": "kitchen/kitchenware/vinaigrette-mixer/5897111.html"
     },
     "pk6": {
-      "bf": "loisirs/decoration-jardin/lot-14-fausses-pierres/9181256.html",
-      "bv": "vrije-tijd/tuindecoratie/set-van-14-nepstenen/9181256.html",
-      "de":
-        "sonstiges/gartendekoration/set-mit-14-kunstlichen-steinen/9181256.html",
-      "fr": "loisirs/decoration-jardin/lot-14-fausses-pierres/9181256.html",
-      "nl": "vrije-tijd/tuindecoratie/set-van-14-nepstenen/9181256.html",
-      "uk":
-        "interests/decorative-garden/set-of-14-imitation-stones/9181256.html"
+      "bf": "cuisine/decoupe/rape-a-manivelle/0112417.html",
+      "bv": "keuken/snijden/rasp-met-zwengel/0112417.html",
+      "de": "kuche/schneiden/reibe-mit-kurbel/0112417.html",
+      "fr": "cuisine/decoupe/rape-a-manivelle/0112417.html",
+      "nl": "keuken/snijden/rasp-met-zwengel/0112417.html",
+      "uk": "kitchen/cutting/grater-with-crank-handle/0112417.html"
     }
   },
   "mention_plus": {
