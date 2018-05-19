@@ -23,40 +23,53 @@
   }
 
 / ### lib DE
-- $lib1 = $objso["lib"]["de"]["pk1"]
-- $lib2 = $objso["lib"]["de"]["pk2"]
-- $lib3 = $objso["lib"]["de"]["pk3"]
-- $lib4 = $objso["lib"]["de"]["pk4"]
-- $lib5 = $objso["lib"]["de"]["pk5"]
-- $lib6 = $objso["lib"]["de"]["pk6"]
+- $lib1        = $objso["lib"]["de"]["pk1"]
+- $lib1_       = $objso["lib"]["de_"]["pk1"]
+- $price1      = $objso["price"]["pk1"]["de"]
+- $lib2        = $objso["lib"]["de"]["pk2"]
+- $lib2_       = $objso["lib"]["de_"]["pk2"]
+- $price2      = $objso["price"]["pk2"]["de"]
+- $lib3        = $objso["lib"]["de"]["pk3"]
+- $lib3_       = $objso["lib"]["de_"]["pk3"]
+- $price3      = $objso["price"]["pk3"]["de"]
+- $lib4        = $objso["lib"]["de"]["pk4"]
+- $lib4_       = $objso["lib"]["de_"]["pk4"]
+- $price4      = $objso["price"]["pk4"]["de"]
+- $lib5        = $objso["lib"]["de"]["pk5"]
+- $lib5_       = $objso["lib"]["de_"]["pk5"]
+- $price5      = $objso["price"]["pk5"]["de"]
+- $lib6        = $objso["lib"]["de"]["pk6"]
+- $lib6_       = $objso["lib"]["de_"]["pk6"]
+- $price6      = $objso["price"]["pk6"]["de"]
 
-- $price = $objso["price"]["de"]
-- $btn = $objso["btn"]["de"]
+- $price_title = $objso["price_title"]["de"]
+- $price       = $objso["price"]["de"]
+- $btn         = $objso["btn"]["de"]
 
 /### content link ["logo", "accroche", "pdt", "prix", "bouton" ]
 - $s0_logo          = "#{$objso["url"]["de"]}index.aspx#{pdt[:gg]}logo#{$campaign}"
 
 / to change :
-- $s1_ambiance         = "#{urlRay}accroche#{$campaign}"
-- $s2_title            = "#{urlRay}accroche#{$campaign}"
-- $s3_callPrice        = "#{urlRay}price#{$campaign}"
-- $s5c2_pk1            = pdt[:pk1]+pdt[:gg]+"pdt"+$campaign
-- $s5c4_pk2            = pdt[:pk2]+pdt[:gg]+"pdt"+$campaign
-- $s6c1_libPk1         = pdt[:pk1]+pdt[:gg]+"pdt"+$campaign
-- $s6c2_libPk2         = pdt[:pk2]+pdt[:gg]+"pdt"+$campaign
-- $s8c2_pk3            = pdt[:pk3]+pdt[:gg]+"pdt"+$campaign
-- $s8c4_pk4            = pdt[:pk4]+pdt[:gg]+"pdt"+$campaign
-- $s9c1_libPk3         = pdt[:pk3]+pdt[:gg]+"pdt"+$campaign
-- $s9c2_libPk4         = pdt[:pk4]+pdt[:gg]+"pdt"+$campaign
-- $s11c2_pk5           = pdt[:pk5]+pdt[:gg]+"pdt"+$campaign
-- $s11c4_pk6           = pdt[:pk6]+pdt[:gg]+"pdt"+$campaign
-- $s12c1_libPk5        = pdt[:pk5]+pdt[:gg]+"pdt"+$campaign
-- $s12c1_libPk6        = pdt[:pk6]+pdt[:gg]+"pdt"+$campaign
-- $s13_btnRay          = "#{urlRay}bouton#{$campaign}"
+- $s1_titletop = $s2c1_title_left = $s2c2_title = $s2c3_title_right = $s3_title_bottom = "#{urlRay}accroche#{$campaign}"
+- $s3_callPrice = "#{urlRay}price#{$campaign}"
+- $pk1_link     = pdt[:pk1]+pdt[:gg]+"pdt1"+$campaign
+- $pk1_btn      = pdt[:pk1]+pdt[:gg]+"btn1"+$campaign
+- $pk2_link     = pdt[:pk2]+pdt[:gg]+"pdt2"+$campaign
+- $pk2_btn      = pdt[:pk2]+pdt[:gg]+"btn2"+$campaign
+- $pk3_link     = pdt[:pk3]+pdt[:gg]+"pdt3"+$campaign
+- $pk3_btn      = pdt[:pk3]+pdt[:gg]+"btn3"+$campaign
+- $pk4_link     = pdt[:pk4]+pdt[:gg]+"pdt4"+$campaign
+- $pk4_btn      = pdt[:pk4]+pdt[:gg]+"btn4"+$campaign
+- $pk5_link     = pdt[:pk5]+pdt[:gg]+"pdt5"+$campaign
+- $pk5_btn      = pdt[:pk5]+pdt[:gg]+"btn5"+$campaign
+- $pk6_link     = pdt[:pk6]+pdt[:gg]+"pdt6"+$campaign
+- $pk6_btn      = pdt[:pk6]+pdt[:gg]+"btn6"+$campaign
 
-/ alt to change :
-- $alt_s2_title     = "Das Wichtigste zum Herrichten Ihres Gartens!"
-- $alt_s13_btnRay   = "Entdecken Sie schnell unsere Gartenpflege Auswahl!"
+- $s10_btn_ray  = "#{urlRay}bouton#{$campaign}"
+
+/ alt to change    :
+- $alt_s1_titletop_bk = ""
+- $alt_s1_titletop    = "Stellen Sie Ihre Salate zusammen wie ein Küchenchef!"
 
 // don't change
 - $alt_logo   = "IDEAL PRAKTISCH"
