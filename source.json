@@ -11,18 +11,12 @@
     "uk": "The essentials for preparing your garden starting at £7,99!"
   },
   "head_doc": {
-    "bf":
-      "Découvrez vite notre sélection pour préparer au mieux votre jardin  à partir de 7,99€ !",
-    "bv":
-      "Ontdek snel onze selectie om zo goed mogelijk uw tuin voor te bereiden vanaf €7,99!",
-    "de":
-      "Entdecken Sie schnell unsere Auswahl zum bestmöglichen Herrichten Ihres Gartens ab €7,99!",
-    "fr":
-      "Découvrez vite notre sélection pour préparer au mieux votre jardin  à partir de 7,99€ !",
-    "nl":
-      "Ontdek snel onze selectie om zo goed mogelijk uw tuin voor te bereiden vanaf €7,99!",
-    "uk":
-      "Discover fast our selection for preparing your garden at best starting at £7,99!"
+    "bf": "Découvrez vite notre sélection pour préparer au mieux votre jardin  à partir de 7,99€ !",
+    "bv": "Ontdek snel onze selectie om zo goed mogelijk uw tuin voor te bereiden vanaf €7,99!",
+    "de": "Entdecken Sie schnell unsere Auswahl zum bestmöglichen Herrichten Ihres Gartens ab €7,99!",
+    "fr": "Découvrez vite notre sélection pour préparer au mieux votre jardin  à partir de 7,99€ !",
+    "nl": "Ontdek snel onze selectie om zo goed mogelijk uw tuin voor te bereiden vanaf €7,99!",
+    "uk": "Discover fast our selection for preparing your garden at best starting at £7,99!"
   },
   "ID": {
     "bf": "1720",
@@ -158,44 +152,32 @@
     "pk1": {
       "bf": "loisirs/entretien-outils-jardin/panier-jardinage/3752110.html",
       "bv": "vrije-tijd/tuingereedschap/tuiniermand/3752110.html",
-      "de":
-        "sonstiges/gartenpflege-und-gerate/korb-fur-gartenarbeiten/3752110.html",
+      "de": "sonstiges/gartenpflege-und-gerate/korb-fur-gartenarbeiten/3752110.html",
       "fr": "loisirs/entretien-outils-jardin/panier-jardinage/3752110.html",
       "nl": "vrije-tijd/tuingereedschap/tuiniermand/3752110.html",
       "uk": "interests/maintenance-gardeningtools/garden-basket/3752110.html"
     },
     "pk2": {
-      "bf":
-        "loisirs/entretien-outils-jardin/perfect-grass-1kg-canada-green/5297312.html",
-      "bv":
-        "vrije-tijd/tuingereedschap/1kg-perfect-grass-van-canada-green/5297312.html",
-      "de":
-        "sonstiges/gartenpflege-und-gerate/perfect-grass-1-kg-von-canada-green/5297312.html",
-      "fr":
-        "loisirs/entretien-outils-jardin/perfect-grass-1kg-canada-green/5297312.html",
-      "nl":
-        "vrije-tijd/tuingereedschap/1kg-perfect-grass-van-canada-green/5297312.html",
+      "bf": "loisirs/entretien-outils-jardin/perfect-grass-1kg-canada-green/5297312.html",
+      "bv": "vrije-tijd/tuingereedschap/1kg-perfect-grass-van-canada-green/5297312.html",
+      "de": "sonstiges/gartenpflege-und-gerate/perfect-grass-1-kg-von-canada-green/5297312.html",
+      "fr": "loisirs/entretien-outils-jardin/perfect-grass-1kg-canada-green/5297312.html",
+      "nl": "vrije-tijd/tuingereedschap/1kg-perfect-grass-van-canada-green/5297312.html",
       "uk": "interests/maintenance-gardeningtools/lawn-repairer/1602119.html"
     },
     "pk3": {
-      "bf":
-        "loisirs/entretien-outils-jardin/agenouilloir-a-poignees/2051118.html",
+      "bf": "loisirs/entretien-outils-jardin/agenouilloir-a-poignees/2051118.html",
       "bv": "vrije-tijd/tuingereedschap/kniesteun-met-grepen/2051118.html",
-      "de":
-        "sonstiges/gartenpflege-und-gerate/kniebankchen-mit-griffen/2051118.html",
-      "fr":
-        "loisirs/entretien-outils-jardin/agenouilloir-a-poignees/2051118.html",
-      "nl": "vrije-tijd/tuingereedschap/kniesteun-met-grepen/2051118.html",
-      "uk":
+      "de": "sonstiges/gartenpflege-und-gerate/kniebankchen-mit-griffen/2051118.html",
+      "fr": "loisirs/entretien-outils-jardin/agenouilloir-a-poignees/2051118.html",
+      "nl": "vrije-tijd/tuingereedschap/kniesteun-met-grepen/2051118.html", "uk":
         "interests/maintenance-gardeningtools/kneeling-pad-with-handles/2051118.html"
     },
     "pk4": {
-      "bf":
-        "loisirs/entretien-outils-jardin/arrache-mauvaises-herbes/4882015.html",
+      "bf": "loisirs/entretien-outils-jardin/arrache-mauvaises-herbes/4882015.html",
       "bv": "vrije-tijd/tuingereedschap/onkruidwieder/4882015.html",
       "de": "sonstiges/gartenpflege-und-gerate/unkrautjater/4882015.html",
-      "fr":
-        "loisirs/entretien-outils-jardin/arrache-mauvaises-herbes/4882015.html",
+      "fr": "loisirs/entretien-outils-jardin/arrache-mauvaises-herbes/4882015.html",
       "nl": "vrije-tijd/tuingereedschap/onkruidwieder/4882015.html",
       "uk": "interests/maintenance-gardeningtools/weed-puller/4882015.html"
     },
@@ -210,12 +192,10 @@
     "pk6": {
       "bf": "loisirs/decoration-jardin/lot-14-fausses-pierres/9181256.html",
       "bv": "vrije-tijd/tuindecoratie/set-van-14-nepstenen/9181256.html",
-      "de":
-        "sonstiges/gartendekoration/set-mit-14-kunstlichen-steinen/9181256.html",
+      "de": "sonstiges/gartendekoration/set-mit-14-kunstlichen-steinen/9181256.html",
       "fr": "loisirs/decoration-jardin/lot-14-fausses-pierres/9181256.html",
       "nl": "vrije-tijd/tuindecoratie/set-van-14-nepstenen/9181256.html",
-      "uk":
-        "interests/decorative-garden/set-of-14-imitation-stones/9181256.html"
+      "uk": "interests/decorative-garden/set-of-14-imitation-stones/9181256.html"
     }
   },
   "mention_plus": {
